@@ -1,0 +1,8 @@
+This file contains all related files to the sensor pcb hardware.
+
+This includes:
+  The gerber files zip
+  The BOM.cvs file for JLCPCB ordering
+  The POS.cvs file for JLCPCB ordering
+
+This file also contains the screenshots of the JLCPCB order page showing necessary order settings including how the LED's and phototransistors should be placed and oriented. Please take note of this as JLCPCB doesn't always orientate it correctly.
