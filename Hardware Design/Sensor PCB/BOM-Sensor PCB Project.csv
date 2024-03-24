@@ -1,0 +1,5 @@
+Comment,Designator,Footprint,LCSC
+100,"R4,R5,R6",R_1206_3216Metric,C17901
+10k,"R1,R2,R3",R_1206_3216Metric,C17902
+LED,"D1,D2,D3",LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack,C2900370
+Q_Photo_NPN,"Q1,Q2,Q3",LED_D5.0mm_Horizontal_O1.27mm_Z3.0mm_IRBlack,C2962773
